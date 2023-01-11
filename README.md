@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="left" alt="code" width="200" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul87911" alt="rahul87911" /></a> </p>
 
