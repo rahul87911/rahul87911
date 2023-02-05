@@ -1,15 +1,21 @@
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=rahul87911&&style=flat-square" align="center" />
+</div>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>   
+  
+
+<br/>  
   
 
 ### <div align="center">I'm Rahul, a full-time full-stack developer 👨‍💻 working remotely on my projects🚀</div>  
-  
+
 
 - 🔭 I’m currently working on my skillset.  
   
 
-- 🌱 I’m currently learning how to build legacy.  
+- 🌱 I’m currently learning how to build a legacy.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -108,32 +114,8 @@
 </div>  
   
 
-<br/>  
-
+<br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahul87911&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aman-senpai&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3r6sayaoeg3el0ncnf5d64l1e&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rahul87911&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
