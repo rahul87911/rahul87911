@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
+  
 <img src="img/img_1.gif" align="center" style="width: 100%" />
+  
 </div>   
 
 
