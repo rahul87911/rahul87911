@@ -112,10 +112,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>
-
-## Github Stats  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aman-senpai&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## Watch My Contribution Graph get eaten by Snake
+![snake gif](https://github.com/rahul87911/rahul87911/blob/output/github-contribution-grid-snake.gif)
 
