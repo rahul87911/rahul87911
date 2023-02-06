@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>   
-  
+
 
 <br/>  
   
@@ -12,6 +12,7 @@
 
 ### <div align="center">I'm Rahul, a full-time full-stack developer 👨‍💻 working remotely on my projects🚀</div>  
 
+<img src="img/img_1.gif" align="right" style="width: 50%" />  
 
 - 🔭 I’m currently working on my skillset.  
   
