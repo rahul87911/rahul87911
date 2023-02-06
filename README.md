@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=rahul87911&&style=flat-square" align="center" />
 </div>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="img/img_1.gif" align="center" style="width: 100%" />
 </div>   
 
 
@@ -12,7 +12,6 @@
 
 ### <div align="center">I'm Rahul, a full-time full-stack developer 👨‍💻 working remotely on my projects🚀</div>  
 
-<img src="img/img_1.gif" align="right" style="width: 10%" />  
 
 - 🔭 I’m currently working on my skillset.  
   
