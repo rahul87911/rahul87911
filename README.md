@@ -1,6 +1,9 @@
 <div align="left">
+  
 <img src="https://komarev.com/ghpvc/?username=rahul87911&&style=flat-square" align="center" />
+
 </div>
+
 <div align="center">
 <img src="img/img_1.gif" align="center" style="width: 100%" />
 </div>   
