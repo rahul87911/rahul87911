@@ -113,6 +113,8 @@
 </a>  
 </div>  
 <br/>
-## Watch My Contribution Graph get eaten by Snake
+
+## Watch my contribution graph get eaten by the snake 🐍
+
 ![snake gif](https://github.com/rahul87911/rahul87911/blob/output/github-contribution-grid-snake.gif)
 
