@@ -9,6 +9,7 @@
 <br/>  
   
 
+
 ### <div align="center">I'm Rahul, a full-time full-stack developer 👨‍💻 working remotely on my projects🚀</div>  
 
 
@@ -112,10 +113,17 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>
 
-## Github Stats  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aman-senpai&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## Watch my contribution graph get eaten by the snake 🐍
+
+![snake gif](https://github.com/rahul87911/rahul87911/blob/output/github-contribution-grid-snake.gif)
+
+<p float=left>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=rahul87911&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for rahul87911" width="500">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahul87911&theme=jolly" width="500">
+  
+  </p>
 
