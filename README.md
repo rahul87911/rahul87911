@@ -9,6 +9,7 @@
 <br/>  
   
 
+
 ### <div align="center">I'm Rahul, a full-time full-stack developer 👨‍💻 working remotely on my projects🚀</div>  
 
 
@@ -117,4 +118,12 @@
 ## Watch my contribution graph get eaten by the snake 🐍
 
 ![snake gif](https://github.com/rahul87911/rahul87911/blob/output/github-contribution-grid-snake.gif)
+
+<p float=left>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=rahul87911&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for rahul87911" width="500">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rahul87911&theme=jolly" width="500">
+  
+  </p>
 
