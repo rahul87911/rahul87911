@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>   
-  
+
 
 <br/>  
   
@@ -12,6 +12,7 @@
 
 ### <div align="center">I'm Rahul, a full-time full-stack developer 👨‍💻 working remotely on my projects🚀</div>  
 
+<img src="img/img_1.gif" align="right" style="width: 10%" />  
 
 - 🔭 I’m currently working on my skillset.  
   
@@ -120,6 +121,8 @@
 ![snake gif](https://github.com/rahul87911/rahul87911/blob/output/github-contribution-grid-snake.gif)
 
 <p float=left>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul87911&show_icons=true&locale=en&layout=compact" alt="rahul87911" /></p>
   
 <img src="https://github-readme-stats.vercel.app/api?username=rahul87911&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for rahul87911" width="500">
 
